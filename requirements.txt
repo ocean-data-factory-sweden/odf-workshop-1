@@ -3,7 +3,7 @@ swifter==0.295
 numpy==1.16.4
 affine==2.3.0
 seaborn==0.9.0
--e git://github.com/jannesgg/pyimpute.git#egg=pyimpute
+-e git+https://github.com/jannesgg/pyimpute.git#egg=pyimpute
 rasterstats==0.13.1
 opencv_python==4.1.1.26
 pandas==0.25.3
