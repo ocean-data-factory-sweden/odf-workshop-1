@@ -72,10 +72,13 @@ Install options: select only the “Windows 10 SDK” (assuming the computer is 
 7. Run ```pip install -r requirements.txt``` to fill any missing requirements.
 
 
+## Bug fixes and development notes
 
-## Additional installation issues
+Please feel free to submit any suggestions and bug fixes by creating an issue in the "Issues" tab on Github.
 
-Should you experience any issues not highlighted above, please do not hesitate to contact us at jurie.germishuys[at]combine.se.
+To contribute code, please submit a pull request using the "Pull Requests" section in Github.
+
+Please direct any other code-related quries to: jurie.germishuys[at]combine.se
 
  
 ## Authors
