@@ -23,7 +23,7 @@ For those with a Github account or git installed simply clone this repository us
   
 ## Prerequisites
 
-What things you need to install the software and how to install them. We recommend that you create a new virtual environment before installing the packages. Popular options include [Anaconda](https://www.anaconda.com/distribution/) and [PyEnv](https://github.com/pyenv/pyenv).
+What things you need to install the software and how to install them. We recommend that you create a new virtual environment before installing the packages. Popular options include [Anaconda](https://www.anaconda.com/distribution/) and [PyEnv](https://github.com/pyenv/pyenv). We recommend using Python 3.7 and above for your virtual environments. 
 
 #### Linux & Mac OS:
 
