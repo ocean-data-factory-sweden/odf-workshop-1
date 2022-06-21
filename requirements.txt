@@ -1,6 +1,6 @@
 geojson==2.5.0
 swifter==0.295
-numpy==1.16.4
+numpy==1.22.0
 affine==2.3.0
 seaborn==0.9.0
 -e git+https://github.com/jannesgg/pyimpute.git#egg=pyimpute
